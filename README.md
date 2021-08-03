@@ -7,7 +7,7 @@
 - 📫 Porque se fosse facil não teria emoção...
 
  <div>
-  <a href="https://github.com/alex-marafon">
+  <a href="https://github.com/Alex-Marafon">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alex-Marafon&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Marafon&layout=compact&langs_count=7&theme=dracula"/>
 </div>
