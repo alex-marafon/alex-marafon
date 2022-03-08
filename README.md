@@ -1,10 +1,10 @@
-### Hi! welcome to my profile 👋
+### Olá!  👋
 
 
 
-- 🔭 Atualmente trabalho com back-end (c#, Entity, mongodb) , front-end (blazor, vueJs, Quasar) e infraestrutura.
-- 🌱 Estudo padrões de projetos, POO, docker, voip, segurança.
-- 📫 Porque se fosse facil não teria emoção...
+- 🔭 Atualmente trabalho com back-end (c#, Entity, aspnet core, docker, rabbitmq, mongodb, sql server) 2 anos de experiencia.
+- 🌱 Estudo padrões de projetos, DDD, MVC, MVVM.
+- - 📫 Porque se fosse facil não teria emoção...
 
 ##
 
