@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Atualmente trabalho com back-end (c#, Entity, aspnet core, docker, rabbitmq, mongodb, sql server) 2 anos de experiencia.
+- 🔭 Dev. back c#, net core, docker, rabbitmq, mongodb, sql server - 3 anos de experiencia.
 - 🌱 Estudo padrões de projetos, DDD, MVC, MVVM.
 - - 📫 Porque se fosse facil não teria emoção...
 
