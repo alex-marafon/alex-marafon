@@ -2,8 +2,10 @@
 
 
 
-- 🔭 Dev. back c#, net core, docker, rabbitmq, mongodb, sql server - 4 anos de experiencia.
-- 🌱 Estudo padrões de projetos, DDD, MVC, MVVM.
+- 🔭 Desenvolvedor:
+- c#, net core, blazor, razor pages, docker, rabbitmq, mongodb, sql server, CI/CD, azure, git action, Jira  e outros n skill
+- 10 anos de estrada (6 anos de TI e a 4 anos como desenvolvedor).
+- 🌱 Estudo padrões de projetos, DDD, MVC, MVVM e outros.
 - - 📫 Porque se fosse facil não teria emoção...
 
 ##
